@@ -87,7 +87,7 @@ turtle.onkey(increasespeed,"w")
 turtle.onkey(decreasespeed,"s")
 turtle.onkey(reset,"r")
 turtle.onkey(pause,"p")
-turtle.onkey(resume,"s")
+turtle.onkey(resume,"q")
 
 while True:
     wn.update()
